@@ -1,0 +1,1 @@
+Repository and code for a project at KTH to determine the relationship between satisfaction level of using artificial intelligence in customer service environments, for both the end customers and employees of companies using such tools and how this compares to the traditional customer service systems such as email and call centers. 
